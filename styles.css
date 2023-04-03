@@ -11,3 +11,8 @@ body {
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
 }
+
+img {
+    height: auto;
+    width: 200px;
+}
